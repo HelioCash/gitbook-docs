@@ -9,7 +9,7 @@ Helio Cash is based upon the work of the brilliant **tomb.finance** project on t
 This project would certainly not be possible without the work of the [tomb.finance](https://tomb.finance) team. Their project being fully open source and developed exceptionally well made it a pleasure to work with, and we would not be here today without their efforts, so we want to give a special thank you to them for that.
 
 {% hint style="info" %}
-Helio Cash was launched on November 23, 2021. The rest is history!&#x20;
+Helio Cash was launched on Aug 7, 2027. The rest is history!&#x20;
 {% endhint %}
 
 ## What's the point?
