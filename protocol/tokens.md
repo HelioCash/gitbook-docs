@@ -4,7 +4,7 @@
 
 ![helio.cash (HELIO )](<../.gitbook/assets/helio.png>)
 
-Contract: [0x522348779DCb2911539e76A1042aA922F9C47Ee3](https://polygonscan.com/address/0x522348779dcb2911539e76a1042aa922f9c47ee3)
+Contract: [0xB38B969f151E8217C917fE0532382172BB6Fb83E](https://polygonscan.com/address/0xB38B969f151E8217C917fE0532382172BB6Fb83E)
 
 The HELIO token is designed to be used as a medium of exchange. The built-in stability mechanisms within the protocol aim to maintain HELIO 's peg of 4,000 HELIO = 1 Ethereum (ETH) in the long run.&#x20;
 
