@@ -16,16 +16,16 @@ Note that HELIO **actively pegs via an algorithm**, but that **does not mean** i
 
 ![HSHARE](<../.gitbook/assets/hshare.png>)
 
-Contract: [0x#](https://polygonscan.com/address/0x#)
+Contract: [0x8521F10339fA59417C90d3808426659b452a73E8](https://polygonscan.com/address/0x8521F10339fA59417C90d3808426659b452a73E8)
 
 HELIO Shares (HSHARE) are one of the ways to measure the value of the Helio Cash Protocol and shareholder trust in its ability to consistently maintain HELIO close to peg. During epoch expansions the protocol mints HELIO and distributes it proportionally to all HSHARE holders who have staked their tokens in the [**Boardroom**](boardroom.md).
 
-HSHARE has a **maximum total supply of 28,000** tokens distributed as follows:
+HSHARE has a **maximum total supply of 29,000** tokens distributed as follows:
 
 1. _Treasury/DAO Allocation: 2,200_ HSHARE vested linearly 12 months\*
 2. _Team Allocation: 2,000_ HSHARE vested linearly over 12 months
 3. _Rewards: 23,000_ HSHARE are allocated for incentivizing liquidity providers in two farming pools for 12 months
-4. Initial mint: 1 HSHARE minted upon contract creation for the initial pool
+4. Initial mint: 1000 HSHARE minted upon contract creation.
 
 {% hint style="success" %}
 The Helio Cash team will use the treasury funds in any way that they feel is best for the long-term success of the protocol.&#x20;
@@ -35,7 +35,7 @@ The Helio Cash team will use the treasury funds in any way that they feel is bes
 
 ![HBOND](<../.gitbook/assets/hbond.png>)
 
-Contract: [0x#](https://polygonscan.com/address/0x#)
+Contract: [0x13Cc4910a82b7FB56Ee5e8e849dd314944114dDE](https://polygonscan.com/address/0x13Cc4910a82b7FB56Ee5e8e849dd314944114dDE)
 
 The main purpose of HELIO Bonds (HBOND) is to help incentivize fluctuations in the HELIO supply during epoch contraction periods. When the TWAP (time-weighted average price) of HELIO falls below 4,000 to 1 ETH, HBONDs are issued and can be bought with HELIO at the current price. Exchanging HELIO for HBOND burns HELIO tokens, taking them out of circulation (deflation) and helps to get the price back up to peg. These HBOND can be redeemed for HELIO when the price is above peg in the future, plus a premium based on how high above peg we currently are. This conversely creates inflation and subsequent sell pressure for HELIO when it is above peg, helping to push it back toward 4,000 HELIO to 1 ETH ratio.
 

@@ -16,5 +16,5 @@ Updates will be posted here as the Roadmap is updated.
 * [ ] Add new incentivized LP farm(s) to provide new ways for investors to optimize compounding yields within the protocol. 
 * [ ] Run a Helio Cash Polygon Validator.
 * [ ] Enable single staking of ETH. 
-* [ ] Shift to a community governed project, where all contracts are owned by a DAO. Project decisions will be voted upon by protocol participants, weighted by their holdings of our governance token (xHELIO). (Currently projected for late-2022.)
+* [ ] Shift to a community governed project, where all contracts are owned by a DAO. Project decisions will be voted upon by protocol participants, weighted by their holdings of our governance token (xHELIO). (Currently projected for late 2022.)
 * [ ] Launch HELIO CHAIN with HELIO as our native token. (Currently projected for late 2022.)

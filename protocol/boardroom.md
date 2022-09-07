@@ -51,25 +51,25 @@ No, Boardroom rewards are determined by how much you have staked at the time of 
 
 ### 4. If I remove my HSHARE from the Boardroom without first collecting my HELIO , will they be lost forever?
 
-No, they will still be there to collect whenever you need.
+No, they will still be there to collect whenever you need them.
 
 ### 5. The Boardroom APR dropped because we're in a "debt phase." What does that mean?
 
-A debt phase takes place during expansion epochs that start after a contraction period where there are still HBOND to be redeemed.
+A debt phase occurs during expansion epochs that start after a contraction period where there are still HBOND to be redeemed.
 
 65% of expansion during a debt phase is allocated to the treasury fund to prepare for subsequent HBOND redemption down the road. This amount is always reserved, regardless of whether HBOND holders are redeeming bonds or not.
 
-Once enough HELIO is sufficiently stocked in the treasury to satisfy the redemption of all circulating HBOND, expansion rates will resume to normal.
+Once enough HELIO is sufficiently stocked in the treasury to satisfy the redemption of all circulating HBOND, expansion rates will resume to their normal state.
 
 ### 6. If we're in a debt phase, how long will it last until the Boardroom continues printing as normal?
 
 The debt phase will last as long as is necessary to adequately pay back outstanding HBOND debt. Please keep in mind that the DAO will also need to collect a little extra, as there needs to be a cushion to cover the bonus premiums when people redeem HBOND over peg.\
 \
-There's no exact way of calculating how many epochs it will take, since the protocol doesn't know exactly when people will redeem their HBOND. The debt phase cannot end until the treasury has enough HELIO to cover the redemption of all outstanding HBONDs plus a premium.
+There's no exact way of calculating how many epochs it will take since the protocol doesn't know exactly when people will redeem their HBOND. The debt phase cannot end until the treasury has enough HELIO to cover the redemption of all outstanding HBONDs plus a premium.
 
 ### 7. At the end of the epoch, the Boardroom did not print HELIO, but then no HBOND(s) were issued either. Why?
 
-There is a balanced state "at peg" when HELIO 's TWAP is between 1.00 and 1.01, which results in no contraction or expansion of the circulating supply of HELIO . This is referred to as a **zen epoch**.
+There is a balanced state "at peg" when HELIO 's TWAP is between 1.00 and 1.01, which results in no contraction or expansion of the circulating supply of HELIO. This is referred to as a **zen epoch**.
 
 ### 8. If HELIO continues to climb above the price of the peg, will that influence how long the debt phase lasts?
 
@@ -94,4 +94,4 @@ This will vary constantly as the APR in the Boardroom fluctuates, along with oth
 
 1. Take the total APR shown in the Boardroom and divide that by 365 to get the daily APR. (For this example we will say the daily APR is 5%.)
 2. Multiply that daily APR by the current market price of the total HSHARE you have staked to see what your daily rewards are. (In this example, we have 5 HSHARE, each worth $500, for a total amount staked of $2500. Your daily return in this case would be $2500 \* 0.05, which comes out to $125 per day.)
-3. Take your initial buy-in price for HSHARE and divide it by your daily rewards. If you bought these 5 HSHARE at a higher price, say $700 for example, in the current market conditions you would recover your initial investment of $3500 in 3500/125 or 28 days.
+3. Take your initial buy-in price for HSHARE and divide it by your daily rewards. If you bought these 5 HSHARE at a higher price, say $700, in the current market conditions, you would recover your initial investment of $3500 in 3500/125 or 28 days.

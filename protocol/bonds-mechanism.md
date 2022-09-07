@@ -8,9 +8,9 @@ Bonds are unique tokens that can be utilized to help stabilize HELIO price aroun
 
 ### When can I buy HBOND (Bonds)?
 
-HBOND can be purchased only on contraction periods, when TWAP of HELIO is below 1.0. Every new epoch on contraction periods, HBONDs are issued in the amount of 3% of current HELIO circulating supply, with a max debt amount of 45%. 
+HBOND can be purchased only during contraction periods when TWAP of HELIO is below 1.0. Every new epoch on contraction periods, HBONDs are issued in the amount of 3% of the current HELIO circulating supply, with a max debt amount of 45%. 
 
-This means that if bonds reach 45% of circulating supply of HELIO, no more bonds will be issued. 
+This means that if bonds reach 45% of the circulating supply of HELIO, no more bonds will be issued. 
 
 {% hint style="info" %}
 Note that during a zen epoch (when an epoch ends with a TWAP between 1.0 - 1.01), **no HBOND will be issued, even though the Boardroom does not print.**
@@ -34,9 +34,9 @@ HBONDs don't have an expiration date, so you can view them as an investment in t
 
 #### Incentives for Holding HBOND
 
-The idea is to reward HBOND buyers for helping the protocol, while also protecting the protocol from being manipulated by big players.
+The idea is to reward HBOND buyers for helping the protocol while also protecting the protocol from being manipulated by big players.
 
-So after you buy HBOND using HELIO , you have two possible ways to get your HELIO back:
+So after you buy HBOND using HELIO, you have two possible ways to get your HELIO back:
 
 1. Sell back your HBOND for HELIO **while the peg is between 1 - 1.1** (4,000 HELIO = 1 ETH) with no redemption bonus. This is in place to prevent an instant dump as soon as peg is recovered.
 2. Sell back your HBOND for HELIO **while the peg is above 1.1** (4,000 HELIO = 1 ETH) with a bonus redemption rate.
@@ -52,17 +52,17 @@ Example:
 
 So, which one is better?
 
-If I buy HELIO at 0.8, and hold it until 1.15 and then sell, I'm getting +$0.35 per HELIO .
+If I buy HELIO at 0.8, hold it until 1.15, and then sell, I'm getting +$0.35 per HELIO .
 
-But, if I buy HELIO at 0.8, burn it for HBOND, and redeem it at 1.15, I'm getting 1.105 HELIO \* 1.15 (HELIO current price) = 1,271 (+$0.47) per HBOND redeemed.
+But if I buy HELIO at 0.8, burn it for HBOND, and redeem it at 1.15, I'm getting 1.105 HELIO \* 1.15 (HELIO current price) = 1,271 (+$0.47) per HBOND redeemed.
 
 But, what if getting back to peg is taking too long?
 
-We will adjust our use cases to have different behaviours on contraction and expansion periods to benefit both HELIO and HBOND holders when needed.
+We will adjust our use cases to have different behaviors on contraction and expansion periods to benefit both HELIO and HBOND holders when needed.
 
-### What is the formula to calculate the redHELIOtion bonus for HBOND?
+### What is the formula to calculate the redemption bonus for HBOND?
 
-To encourage the redHELIOtion of HBOND for HELIO when HELIO 's TWAP > 1.1 and in order to incentivize users to redeem bonds at a higher price, HBOND redHELIOtion is designed to be more profitable with a higher HELIO TWAP value. The HBOND to HELIO ratio is 1:R, where R can be calculated using the formula as shown below:
+To encourage the redemption of HBOND for HELIO when HELIO 's TWAP > 1.1 and in order to incentivize users to redeem bonds at a higher price, HBOND redemption is designed to be more profitable with a higher HELIO TWAP value. The HBOND to HELIO ratio is 1:R, where R can be calculated using the formula as shown below:
 
 $$
 R=1+[(HELIO twapprice)-1)*coeff)]

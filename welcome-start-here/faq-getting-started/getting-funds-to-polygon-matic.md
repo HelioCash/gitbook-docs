@@ -6,9 +6,9 @@ description: Let's get comfy with Polygon (MATIC).
 
 ### Connecting to Polygon (MATIC)
 
-If you aren't already connected to Polygon (MATIC) in your preferred wallet and you don't know how to do that, you'll need to do that first.
+If you aren't already connected to Polygon (MATIC) in your preferred wallet, and don't know how to do that, you'll need to do that first.
 
-There are plenty of great guides already out there on how to set that up. Here are a few we like, depending on which wallet you're using.
+There are plenty of great guides on how to set that up. Here are a few we like, depending on which wallet you're using.
 
 #### Metamask
 

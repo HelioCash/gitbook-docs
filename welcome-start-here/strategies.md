@@ -16,11 +16,11 @@ The strategies described here are intended only to illustrate how to use the Hel
 
 This is the most simple and consistent strategy for new users, as it requires the fewest steps and the least effort to maintain (as in, zero effort). This option maintains the maximum amount of exposure to Ethereum (ETH) while still earning incredible yields that automatically compound every two hours.
 
-If you're already holding HELIO and ETH in your wallet and know how to throw that into the liquidity pool for LP tokens, you can do that manually if you like. (Refer to the [Provide LP](../helpful-guides/provide-lp.md) section for instructions on how to do this if you are interested.) But, our autocompounder vault can also do this automatically for you, which is the method we recommend. (Check out the documentation on our [Autocompounding Vaults](autocompounding-vaults.md) if you have any questions about how to use them.)
+If you're already holding HELIO and ETH in your wallet and know how to throw that into the liquidity pool for LP tokens, you can do that manually if you like. (Refer to the [Provide LP](../helpful-guides/provide-lp.md) section for instructions on how to do this if you are interested.) But our autocompounder vault can also do this automatically for you, which is the method we recommend. (Check out the documentation on our [Autocompounding Vaults](autocompounding-vaults.md) if you have any questions about how to use them.)
 
 ### Semi-active Restaking Strategy
 
-Once you have familiarized yourself with the Helio Cash protocol and how everything works, you might be interested to try a more active and advanced strategy to diversify your passive income streams and potentially increase yields.
+Once you have familiarized yourself with the Helio Cash protocol and how everything works, you might be interested in trying a more active and advanced strategy to diversify your passive income streams and potentially increase yields.
 
 One way to do this would be to buy some HELIO and pair it with ETH to receive HELIO -ETH LP tokens. (Refer to the [Provide LP](../helpful-guides/provide-lp.md) section for instructions on how to do this.) You can then stake those LP tokens in our [Farms](../protocol/farms.md) to earn HSHARE, which you can then withdraw on a regular basis and stake in the [Boardroom](../protocol/boardroom.md) to earn additional HELIO when above peg and the Boardroom is printing.
 
@@ -36,7 +36,7 @@ Keep in mind these fundamental aspects of the protocol when you are thinking abo
 2. The higher HELIO is above peg, the **more HELIO is printed for HSHARE stakers in the Boardroom**. This makes staking HSHARE more attractive the higher above peg we currently are.
 3. Conversely, HSHARE becomes less attractive as HELIO dips below peg.
 
-Ultimately, the goal of an advanced user of the protocol should be to help maintain the peg. Doing so will result in the greatest rewards for not only yourself as an individual, but for every person participating in the protocol as a whole.
+Ultimately, the goal of an advanced user of the protocol should be to help maintain the peg. Doing so will result in the greatest rewards not only yourself as an individual, but for every person participating in the protocol as a whole.
 
 Strategically rebalancing your portfolio to apply buying pressure to HELIO when below peg, or selling pressure when above peg, can be a very profitable strategy, but is not without risk. As such, this type of strategy is for experienced users only.
 
