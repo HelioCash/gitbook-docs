@@ -2,7 +2,7 @@
 
 ### Helio Cash Token
 
-[0x#](https://polygonscan.com/address/0x#)
+[0xB38B969f151E8217C917fE0532382172BB6Fb83E](https://polygonscan.com/address/0xB38B969f151E8217C917fE0532382172BB6Fb83E)
 
 ### HBOND
 
